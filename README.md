@@ -5,6 +5,8 @@
 ### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">ᴄᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ</p>
 <p align="center">
+<a href="https://mangadex.org/user/me?tab=info">
+<img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=mangadex&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/bonayama00">
 <img alt="Steam" src="https://img.shields.io/badge/-Steam-2B4888?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/bona_yama">
