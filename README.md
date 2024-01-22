@@ -1,4 +1,4 @@
-### <p align="center">**ᴘʏᴛʜᴏɴ ʜᴛᴍʟ ᴊᴀᴠᴀ**</p>
+### <p align="center">**My coding course - ᴘʏᴛʜᴏɴ ʜᴛᴍʟ ᴊᴀᴠᴀ**</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -12,7 +12,7 @@
 <a href="https://www.pixiv.net/en/users/33937306">
 <img alt="Pixiv" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
 
-### <p align="center">  &nbsp;Enviroment 
+### <p align="center">  &nbsp;Platform
 <p align="center">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
