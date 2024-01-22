@@ -12,7 +12,7 @@
 <a href="https://www.pixiv.net/en/users/33937306">
 <img alt="Pixiv" src="https://img.shields.io/badge/-Pixiv-12b2ED?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
 <a href="https://meta.stackexchange.com/users/1456971/bonayama00?tab=profile">
-<img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
+<img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=stackexchangev&logoColor=white"/></a>
 
 ### <p align="center">  &nbsp;Platform
 <p align="center">
