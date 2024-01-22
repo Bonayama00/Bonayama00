@@ -5,6 +5,8 @@
 ### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">ᴄᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ</p>
 <p align="center">
+<a href="https://steamcommunity.com/id/bonayama00">
+<img alt="Steam" src="https://img.shields.io/badge/-Steam-2B4888?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/bona_yama">
 <img alt="Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://soundcloud.com/bokayamamusic">
@@ -13,12 +15,13 @@
 <img alt="Pixiv" src="https://img.shields.io/badge/-Pixiv-12b2ED?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
 <a href="https://www.deviantart.com/sephiruth">
 <img alt="Deviantart" src="https://img.shields.io/badge/-Deviantart-43AA60?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
+<a href="https://pixai.art/@bona">
+<img alt="Pixai" src="https://img.shields.io/badge/-Pixai-212221?style=for-the-badge&logo=pixai&logoColor=white"/></a>
 <a href="https://meta.stackexchange.com/users/1456971/bonayama00?tab=profile">
 <img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=stackexchange&logoColor=white"/></a>
 <a href="https://flowgpt.com/@e70ec0bb-4f95-443f-ae68-d17ee0cc305e?public=1">
 <img alt="FlowGPT" src="https://img.shields.io/badge/-Flowgpt-4E5051?style=for-the-badge&logo=flowgpt&logoColor=white"/></a>
-<a href="https://pixai.art/@bona">
-<img alt="Pixai" src="https://img.shields.io/badge/-Pixai-212221?style=for-the-badge&logo=pixai&logoColor=white"/></a>
+
 
 ### <p align="center">  &nbsp;Platform
 <p align="center">
