@@ -8,9 +8,9 @@
 <a href="https://www.reddit.com/user/bona_yama">
 <img alt="Reddit" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://soundcloud.com/bokayamamusic">
-<img alt="Soundcloud" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
+<img alt="Soundcloud" src="https://img.shields.io/badge/-Bonayama00-FF6600?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 <a href="https://www.pixiv.net/en/users/33937306">
-<img alt="Pixiv" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
+<img alt="Pixiv" src="https://img.shields.io/badge/-Bonayama00-12b2ED?style=for-the-badge&logo=pixiv&logoColor=white"/></a>
 
 ### <p align="center">  &nbsp;Platform
 <p align="center">
