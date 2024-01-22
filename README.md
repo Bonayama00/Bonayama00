@@ -4,7 +4,7 @@
 
 ### <p align="center"> &nbsp; My SNS  
 <p align="center">
-<p align="center">**Community**          **Music**            **Illustration**</p>
+### ᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ
 <a href="https://www.reddit.com/user/bona_yama">
 <img alt="Reddit" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://soundcloud.com/bokayamamusic">
