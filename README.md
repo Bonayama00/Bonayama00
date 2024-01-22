@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <p align="center"> &nbsp; My SNS 
+### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">ᴄᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ</p>
 <p align="center">
 <a href="https://www.reddit.com/user/bona_yama">
