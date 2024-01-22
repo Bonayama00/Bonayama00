@@ -6,7 +6,7 @@
 <p align="center">ᴄᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ</p>
 <p align="center">
 <a href="https://forums.mangadex.org/members/bonayama.642487/#about">
-<img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=mangadex&logoColor=white"/></a>
+<img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/bonayama00">
 <img alt="Steam" src="https://img.shields.io/badge/-Steam-2B4888?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/bona_yama">
@@ -18,7 +18,7 @@
 <a href="https://www.deviantart.com/sephiruth">
 <img alt="Deviantart" src="https://img.shields.io/badge/-Deviantart-43AA60?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
 <a href="https://pixai.art/@bona">
-<img alt="Pixai" src="https://img.shields.io/badge/-Pixai-212221?style=for-the-badge&logo=pixai&logoColor=white"/></a>
+<img alt="Pixai" src="https://img.shields.io/badge/-Pixai-212221?style=for-the-badge&logo=civitai&logoColor=white"/></a>
 <a href="https://meta.stackexchange.com/users/1456971/bonayama00?tab=profile">
 <img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=stackexchange&logoColor=white"/></a>
 <a href="https://flowgpt.com/@e70ec0bb-4f95-443f-ae68-d17ee0cc305e?public=1">
