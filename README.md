@@ -4,8 +4,8 @@
 
 ### <p align="center"> &nbsp; My SNS  
 <p align="center">
+<p align="left">**Community**</p>
 <a href="https://www.reddit.com/user/bona_yama">
-<p align="center">Community**</p>
 <img alt="Reddit" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://soundcloud.com/bokayamamusic">
 <img alt="Soundcloud" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
