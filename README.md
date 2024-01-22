@@ -3,8 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <p align="center"> &nbsp; My SNS  
-<p align="center">
-### ᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ
+<p align="center">ᴄᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ</p>
 <a href="https://www.reddit.com/user/bona_yama">
 <img alt="Reddit" src="https://img.shields.io/badge/-Bonayama00-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://soundcloud.com/bokayamamusic">
