@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <p align="center"> &nbsp; My SNS and Sidejob
-<p align="center">ᴄᴏᴍᴍᴜɴɪᴛʏ     ᴍᴜꜱɪᴄ       ʟʟᴜꜱᴛʀᴀᴛɪᴏɴ</p>
+<p align="center">𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝙈𝙪𝙨𝙞𝙘 𝙄𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙋𝙧𝙤𝙢𝙥𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙎𝙩𝙖𝙘𝙠/p>
 <p align="center">
 <a href="https://forums.mangadex.org/members/bonayama.642487/#about">
 <img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
