@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <p align="center"> &nbsp; My SNS and Sidejob
-<p align="center">𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮   𝙈𝙪𝙨𝙞𝙘   𝙄𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣   𝙋𝙧𝙤𝙢𝙥𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜   𝙎𝙩𝙖𝙘𝙠𝙚𝙭𝙘𝙝𝙖𝙣𝙜𝙚  Algorithm</p>
+<p align="center">𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗮𝗰𝗸𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺</p>
 <p align="center">
 <a href="https://discord.com/users/791277397377941525">
 <img alt="Discord" src="https://img.shields.io/badge/-Discord-3929D1?style=for-the-badge&logo=discord&logoColor=white"/></a>
