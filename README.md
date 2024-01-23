@@ -5,6 +5,10 @@
 ### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮   𝙈𝙪𝙨𝙞𝙘   𝙄𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣   𝙋𝙧𝙤𝙢𝙥𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜   𝙎𝙩𝙖𝙘𝙠𝙚𝙭𝙘𝙝𝙖𝙣𝙜𝙚</p>
 <p align="center">
+<a href="https://huggingface.co/bonayama">
+<img alt="Huggingface" src="https://img.shields.io/badge/-Discord-F9F61B?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
+<a href="https://discord.com/users/791277397377941525">
+<img alt="Discord" src="https://img.shields.io/badge/-Discord-3929D1?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://forums.mangadex.org/members/bonayama.642487/#about">
 <img alt="Mangadex" src="https://img.shields.io/badge/-Mangadex-C67B39?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/bonayama00">
