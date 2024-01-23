@@ -5,8 +5,6 @@
 ### <p align="center"> &nbsp; My SNS and Sidejob
 <p align="center">𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮   𝙈𝙪𝙨𝙞𝙘   𝙄𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣   𝙋𝙧𝙤𝙢𝙥𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜   𝙎𝙩𝙖𝙘𝙠𝙚𝙭𝙘𝙝𝙖𝙣𝙜𝙚</p>
 <p align="center">
-<a href="https://huggingface.co/bonayama">
-<img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-F9F61B?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
 <a href="https://discord.com/users/791277397377941525">
 <img alt="Discord" src="https://img.shields.io/badge/-Discord-3929D1?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://forums.mangadex.org/members/bonayama.642487/#about">
@@ -27,6 +25,8 @@
 <img alt="Stackexchange" src="https://img.shields.io/badge/-Stackexchange-0066FF?style=for-the-badge&logo=stackexchange&logoColor=white"/></a>
 <a href="https://flowgpt.com/@e70ec0bb-4f95-443f-ae68-d17ee0cc305e?public=1">
 <img alt="FlowGPT" src="https://img.shields.io/badge/-Flowgpt-4E5051?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<a href="https://huggingface.co/bonayama">
+<img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-F9F61B?style=for-the-badge&logo=crowdai&logoColor=white"/></a>
 
 
 ### <p align="center">  &nbsp;Platform
