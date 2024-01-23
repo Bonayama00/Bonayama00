@@ -1,6 +1,6 @@
 ### <p align="center">**Current coding course - HTML 5, Python, Java, Mysql**</p>   
 ### <p align="center">**Experience - personal web dev for manga reading, Algorithm theorem**</p>
-### <p align="center">**Other skills - Prompting Engineer, Digital Illustrator, Music Arranger, Veteran Mathematician**</p>
+### <p align="center">**Other skills - Prompting Engineer, Digital Illustrator, Music Arranger, Applied Mathematic**</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
