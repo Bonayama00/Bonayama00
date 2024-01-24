@@ -28,7 +28,7 @@
 <a href="https://flowgpt.com/@e70ec0bb-4f95-443f-ae68-d17ee0cc305e?public=1">
 <img alt="FlowGPT" src="https://img.shields.io/badge/-Flowgpt-4E5051?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://huggingface.co/bonayama">
-<img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-F9F61B?style=for-the-badge&logo=mistral&logoColor=white"/></a>
+<img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-F9F61B?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 
 ### <p align="center">  &nbsp;Platform
