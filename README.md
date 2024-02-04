@@ -1,4 +1,4 @@
-### <p align="center">**Current coding course - HTML 5 | Python | Java | Mysql**</p>   
+### <p align="center">**Current coding course - HTML | Python | Javascript | CSS | Mysql</p>   
 ### <p align="center">**Experience - Personal web dev for Manga reading | Algorithms Enthusiast | Applied Mathematics**</p>
 ### <p align="center">**Other skills - Prompting Engineer | Digital Illustrator | Music Arranger**</p>
 
